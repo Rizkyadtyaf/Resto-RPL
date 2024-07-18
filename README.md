@@ -1,6 +1,3 @@
-LINK FOR HOST https://restounikomjusmelayu.000webhostapp.com/
-
-
 Login as Koki
 ID : nina
 Pass : 123
